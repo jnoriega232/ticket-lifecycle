@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3>Stage 1: Creating a Ticket</h3>
 
 
-- To act like an end user to create a ticket, click [here](http://localhost/osTicket/).
+- To act like an end user and create tickets, click [here](http://localhost/osTicket/).
 - Select Open a New Ticket
   - Email Address: Karen@osticket.com
   - Name: Karen Karen
@@ -38,7 +38,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Create Ticket
 
 <p align="center">
-<img src="https://i.imgur.com/G7Ak6uI.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/UdiPc1s.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/lCZO3GZ.png" height="50%" width="50%" alt="Azure Free Account"/> <img src="https://i.imgur.com/cQFCK70.png" height="50%" width="50%" alt="Azure Free Services"/>
 </p>
 
 
