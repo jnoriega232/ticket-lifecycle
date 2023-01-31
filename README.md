@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3>Stage 1: Creating a Ticket</h3>
 
 
-- To act like an end user to create a ticket, click [here](http://localhost/osTicket/index.php).
+- To act like an end user to create a ticket, click [here](http://localhost/osTicket/).
 - Select Open a New Ticket
   - Email Address: Karen@osticket.com
   - Name: Karen Karen
