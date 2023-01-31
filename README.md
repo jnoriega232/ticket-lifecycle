@@ -21,7 +21,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Creating a Ticket
 - Assignment and Communication
 - Working the Issue
-- Resolving
+- Resolution
 
 <h2>Lifecycle Stages</h2>
 
@@ -38,7 +38,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   - Create Ticket
 
 <p align="center">
-<img src="https://i.imgur.com/lCZO3GZ.png" height="50%" width="50%" alt="Azure Free Account"/> <img src="https://i.imgur.com/cQFCK70.png" height="50%" width="50%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/lCZO3GZ.png" height="50%" width="50%" alt="Azure Free Account"/> <img src="https://i.imgur.com/Z33C0m5.png" height="50%" width="50%" alt="Azure Free Services"/>
 </p>
 
 
@@ -50,23 +50,23 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   
   
 <p align="center">
-<img src="https://i.imgur.com/sDgzS36.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/vqlHPAC.png" height="50%" width="50%" alt="Azure Free Account"/> <img src="https://i.imgur.com/9FJdKmA.png" height="50%" width="50%" alt="Azure Free Services"/>
 </p>
 
 
  - Priority: Emergency. 
-      - Mobile online banking down can lead to losses in revenue for the company. 
+      - Mobile online banking down can potentially lead to financial loss for the company
  - Assigned to: Jane Doe
  - SLA Plan: SEV-A 
-      - Business impacting, critical incident
+      - Notes: Business impacting, critical incident
  - Department: System Administrators 
       - Sys Admins responsible for mobile banking infrastructure
- - Response text box: Coordinating with Sys Admin Team to bring mobile banking back online.
+ - Response text box: Coordinating with Sys Admin Team to bring mobile banking back online
     - Select Post Reply
 
 
 <p align="center">
-<img src="https://i.imgur.com/Du3kmui.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/yg9TXep.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/JpxZpfL.png" height="50%" width="50%" alt="Azure Free Account"/> <img src="https://i.imgur.com/u3lKmsv.png" height="50%" width="50%" alt="Azure Free Services"/>
 </p>
 
 <h3>Stage 3: Working the Issue</h3>
@@ -76,14 +76,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h3>Stage 4: Resolution</h3>
      
-- Once the issue is resolved, head back to the ticket and update the end user.
+- Once the issue is resolved, go back to the ticket and update the end user.
   - Response text box: Jerry from System Engineering found and connected a failed load balancer. Mobile banking should be back up. 
   - Ticket Status: Resolved
 - Select Post Reply
 - The ticket should now be on the "closed" tab since it has been resolved.
 
 <p align="center">
-<img src="https://i.imgur.com/et8h651.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/TUo3T0Q.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/3XhKEZo.png" height="50%" width="50%" alt="Azure Free Account"/> <img src="https://i.imgur.com/4cdVktH.png" height="50%" width="50%" alt="Azure Free Services"/>
 </p>
 
 
