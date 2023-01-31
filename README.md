@@ -18,7 +18,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Creating a Ticket
+- Intake: Creating a Ticket
 - Assignment and Communication
 - Working the Issue
 - Resolution
@@ -42,7 +42,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 
-<h3>Step 2: Assignment and Communication</h3>
+<h3>Stage 2: Assignment and Communication</h3>
 
 - Sign into osTicket as an Agent
   - We created jane.doe in previous tutorial, log in with those credentials. 
@@ -87,5 +87,5 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 
-🎉Congratulations! You have created and resolved your first ticket!🎉
+🎉 **Congratulations! You have created and resolved your first ticket!** 🎉
   
